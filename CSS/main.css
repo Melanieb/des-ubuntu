@@ -1,0 +1,47 @@
+@charset "utf-8";
+body {
+	background-color: #230416;
+	background-image: url(../_files/bg_body.jpg);
+	background-repeat: repeat-x;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #3B1029;
+	margin: 0px;
+	padding: 0px;
+}
+#Page {
+	width: 980px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#footer {
+	font-size: 11px;
+	color: #98778a;
+	text-align: right;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+#footer a {
+	color: #FFF;
+	text-decoration: none;
+}
+#header {
+	padding-bottom: 15px;
+	padding-top: 15px;
+}
+h1 {
+	font-size: 24px;
+	font-weight: normal;
+}
+.rpic {
+	float: right;
+	margin-bottom: 15px;
+	margin-left: 15px;
+}
+
+
+#Content {
+	background-color: #FFF;
+	border: 1px solid #000;
+	padding: 15px;
+}
